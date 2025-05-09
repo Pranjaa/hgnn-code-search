@@ -37,7 +37,7 @@ scripts/
 
 1. **Clone the repository**:
 ```
-git clone https://github.com/your-username/hgnn-code-search.git
+git clone https://github.com/Pranjaa/hgnn-code-search.git
 cd hgnn-code-search
 ```
 
